@@ -35,6 +35,5 @@ This project uses **MediaPipe Hands** and JavaScript to detect hand gestures in 
 ### 📦 Web Version (Browser)
 
 ```bash
-git clone https://github.com/your-username/hand-gesture-game-control.git
-cd hand-gesture-game-control
-open index.html
+git clone https://github.com/your-username/hand-gesture-game-control.git](https://github.com/Uday-132/gesture_control/tree/main
+python mediapipe_gesture_control.py
